@@ -1,0 +1,20 @@
+{
+    "Author": "Christopher Keyaert",
+    "ContentSize": 2190,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/windows-azure-s2s-vpn-with-dynamic-public-ip/master/UpdateIP.ps1",
+    "DownloadCount": 1902,
+    "Id": "Windows-Azure-S2S-VPN-with-d21f2db0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 554,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2013-12-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "When you configure your Azure S2S VPN network,  you will have to specify  your ISP Internet public IP. If your ISP provides you a public IP that is changing every x days, you will have to update public IP manually into Azure Web Interface. Lat automate this with PowerShell.",
+    "Title": "Windows Azure: S2S VPN with dynamic public IP",
+    "UpdatedDate": "2013-12-1T00:00:00",
+    "Url": "https://github.com/azureautomation/windows-azure-s2s-vpn-with-dynamic-public-ip",
+    "UserTags": "Microsoft Azure, IP, VPN"
+}
